@@ -7,9 +7,9 @@ Over the past year, I’ve completed multiple **DataCamp certifications** and bu
 
 ---
 
-## 🧠 About Me
+## 🧬 About Me
 - 💻 Experienced in **Linux Systems, AWS, Docker, Kubernetes, Terraform, Jenkins**
-- 🧩 Currently focusing on **AI**, **Machine Learning**, and **MLOps**
+- 🧠 Currently focusing on **AI**, **Machine Learning**, and **MLOps**
 - ⚙️ Passionate about building **reliable, automated ML pipelines**
 - 🧮 Skilled in **Python, AWS, SQL, Pandas, Scikit-learn, XGBoost, MLFlow**
 - 📈 I enjoy turning data into **scalable, production-ready AI/ML systems**
