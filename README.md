@@ -58,7 +58,7 @@ Performed topic clustering using OpenAI text embeddings.
 
 | Category | Tools |
 |-----------|-------|
-| 🧮 ML & AI | Python, Scikit-learn, XGBoost, MLflow, DVC |
+| 🧮 ML & AI | Python, Scikit-learn, XGBoost, MLflow, DVC, OpenAI API |
 | ☁️ Cloud & Infra | AWS, Docker, Kubernetes, Terraform |
 | 🧰 DevOps | Jenkins, CI/CD, GitHub Actions, Prometheus/Grafana |
 | 🗄️ Data | SQL, Pandas, Numpy, Matplotlib |
@@ -66,8 +66,8 @@ Performed topic clustering using OpenAI text embeddings.
 ---
 
 ## 🧩 Connect with Me
-**Email:** [stvn.org@gmail](mailto:stvn.org@gmail.com)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/steven-stevanus-aa367737/)  
+**Email:** [stvn.org@gmail.com](mailto:stvn.org@gmail.com)  
+**LinkedIn:** [linkedin.com/in/steven-stevanus](https://www.linkedin.com/in/steven-stevanus-aa367737/)  
 **Github:** [github.com/stvnorg](https://github.com/stvnorg)
 **Portfolio:** [datacamp/portfolio](https://www.datacamp.com/portfolio/stvnorg)
 
