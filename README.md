@@ -27,10 +27,10 @@ Over the past year, I’ve completed multiple **DataCamp certifications** and bu
 
 ---
 
-## 📊 Featured Projects
+## ✍🏼 Featured Projects
 
 ### 🚗 Modeling Car Insurance Claim Outcomes
-Identify the single most predictive feature for whether a car insurance customer will file a claim.
+Identify the single most predictive feature for whether a car insurance customer will file a claim.  
 **Tech:** Python, Logit, Pandas, Matplotlib
 🔗 [View Project](https://www.datacamp.com/datalab/w/5b5467cb-4c67-43c6-8a40-78e29cbe66d9/edit)
 
@@ -58,10 +58,11 @@ Performed topic clustering using OpenAI text embeddings.
 
 | Category | Tools |
 |-----------|-------|
-| 🧮 ML & AI | Python, Scikit-learn, XGBoost, MLflow, DVC, OpenAI API |
-| ☁️ Cloud & Infra | AWS, Docker, Kubernetes, Terraform |
-| 🧰 DevOps | Jenkins, CI/CD, GitHub Actions, Prometheus/Grafana |
-| 🗄️ Data | SQL, Pandas, Numpy, Matplotlib |
+| 🧮 ML & AI | Python, Scikit-learn, XGBoost, MLflow, OpenAI API |  
+| 🗄️ Data | SQL, Pandas, Numpy, Matplotlib, DVC |  
+| ☁️ Cloud & Infra | AWS, GCP, Docker, Kubernetes, Terraform, CloudFormation |  
+| 🧰 DevOps CI/CD | Jenkins, Gitlab CI, GitHub Actions, ArgoCD |  
+| 📊 Monitoring | Prometheus/Grafana, Elasticsearch, Datadog  
 
 ---
 
