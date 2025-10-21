@@ -23,7 +23,8 @@ Over the past year, I’ve completed multiple **DataCamp certifications** and bu
 | 🧠 Associate AI Engineer for Developers Career Track | DataCamp | [View Track Completion](https://www.datacamp.com/completed/statement-of-accomplishment/track/2f5b7820688c227a19df5d12fb2656a09d9f73ac) |
 | 🤖 Machine Learning Engineering Track | DataCamp | [View Track Completion](https://www.datacamp.com/completed/statement-of-accomplishment/track/98cb692b331319e68272ac0fc5a049d9d87a9412) |
 | 🐍 Python Data Associate Certificate | DataCamp | [View Certificate](https://www.datacamp.com/certificate/PDA0011278751517) |
-| 🧮 SQL Fundamentals Certificate | DataCamp | [View Certificate](https://www.datacamp.com/certificate/SQA0015601512114) |
+| 🧮 SQL Fundamentals Certificate | DataCamp | [View Certificate](https://www.datacamp.com/certificate/SQA0015601512114) |  
+| 📙 AI Fundamentals Certificate | DataCamp | [View Certificate](https://www.datacamp.com/skill-verification/AIF0026991382035) |  
 
 ---
 
