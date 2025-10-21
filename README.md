@@ -2,14 +2,14 @@
 
 ### 🚀 System Engineer → DevOps/SRE → AI/ML Engineer | MLOps | Python | AWS | Kubernetes | DataCamp Certified  
 
-I’m a **System Engineer / DevOps  with 10+ years of experience** in cloud infrastructure, automation, and DevOps, now expanding into **Artificial Intelligence and Machine Learning**.  
+I’m a System Engineer and DevOps professional with 10+ years of experience in cloud infrastructure, automation, and reliability engineering. Now expanding into **Artificial Intelligence and Machine Learning**.  
 Over the past year, I’ve completed multiple **DataCamp certifications** and built several **hands-on ML projects** that merge DevOps reliability with MLOps automation.
 
 ---
 
 ## 🧠 About Me
 - 💻 Experienced in **Linux Systems, AWS, Docker, Kubernetes, Terraform, Jenkins**
-- 🧩 Currently focusing on **AI**, **Machine Learning**, **MLOps**
+- 🧩 Currently focusing on **AI**, **Machine Learning**, and **MLOps**
 - ⚙️ Passionate about building **reliable, automated ML pipelines**
 - 🧮 Skilled in **Python, AWS, SQL, Pandas, Scikit-learn, XGBoost, MLFlow**
 - 📈 I enjoy turning data into **scalable, production-ready AI/ML systems**
@@ -29,7 +29,7 @@ Over the past year, I’ve completed multiple **DataCamp certifications** and bu
 
 ## 📊 Featured Projects
 
-### Modeling Car Insurance Claim Outcomes
+### 🚗 Modeling Car Insurance Claim Outcomes
 Identify the single most predictive feature for whether a car insurance customer will file a claim.
 **Tech:** Python, Logit, Pandas, Matplotlib
 🔗 [View Project](https://www.datacamp.com/datalab/w/5b5467cb-4c67-43c6-8a40-78e29cbe66d9/edit)
@@ -66,10 +66,10 @@ Performed topic clustering using OpenAI text embeddings.
 ---
 
 ## 🧩 Connect with Me
-**Email:** [stvn.org@gmail.com](mailto:stvn.org@gmail.com)  
-**LinkedIn:** [linkedin.com/in/steven-stevanus](https://www.linkedin.com/in/steven-stevanus-aa367737/)  
-**Github:** [github.com/stvnorg](https://github.com/stvnorg)
-**Portfolio:** [datacamp/portfolio](https://www.datacamp.com/portfolio/stvnorg)
+[![Email](https://img.shields.io/badge/Email-stvn.org@gmail.com-blue?logo=gmail)](mailto:stvn.org@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Steven%20Stevanus-blue?logo=linkedin)](https://www.linkedin.com/in/steven-stevanus-aa367737/)
+[![GitHub](https://img.shields.io/badge/GitHub-stvnorg-black?logo=github)](https://github.com/stvnorg)
+[![DataCamp](https://img.shields.io/badge/Portfolio-DataCamp-brightgreen?logo=datacamp)](https://www.datacamp.com/portfolio/stvnorg)
 
 ---
 
