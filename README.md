@@ -4,7 +4,7 @@
 
 I’m a System Engineer and DevOps professional with 8+ years of experience in cloud infrastructure, automation, and reliability engineering. Now expanding into **Artificial Intelligence and Machine Learning**.  
 Over the past year, I’ve completed multiple **DataCamp certifications** and built several **hands-on ML projects** that merge DevOps reliability with MLOps automation.
-I'm moving from writing code from scratch to a more creative and "supervisor-typed" tasks:  
+I'm moving from writing code from scratch to a more creative and "designer-type" tasks:  
 - understanding the big picture,  
 - guided ChatGPT to handle the heavy lifting, 
 - evaluated and debugged the outputs,  
