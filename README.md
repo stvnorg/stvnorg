@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Steven Stevanus  
 
-### 🚀 System Engineer → DevOps/SRE → AI/ML Engineer | MLOps | Python | AWS | Kubernetes | DataCamp Certified  
+### 🚀 System Engineer | DevOps/SRE | AI/ML Engineer | MLOps | Python | AWS | Kubernetes | DataCamp Certified  
 
 I’m a System Engineer and DevOps professional with 8+ years of experience in cloud infrastructure, automation, and reliability engineering. Now expanding into **Artificial Intelligence and Machine Learning**.  
 Over the past year, I’ve completed multiple **DataCamp certifications** and built several **hands-on ML projects** that merge DevOps reliability with MLOps automation.
@@ -19,19 +19,6 @@ I'm moving from writing code from scratch to a more creative and "designer-type"
 - ⚙️ Passionate about building **reliable, automated ML pipelines**
 - 🧮 Skilled in **Python, AWS, SQL, Pandas, Scikit-learn, XGBoost, MLFlow**
 - 📈 I enjoy turning data into **scalable, production-ready AI/ML systems**
-
----
-
-## 🎓 Certifications
-
-| Certification | Platform | Credential |
-|----------------|-----------|-------------|
-| 🧠 Associate AI Engineer for Developers Career Track | DataCamp | [View Track Completion](https://www.datacamp.com/completed/statement-of-accomplishment/track/2f5b7820688c227a19df5d12fb2656a09d9f73ac) |
-| 🤖 Machine Learning Engineering Track | DataCamp | [View Track Completion](https://www.datacamp.com/completed/statement-of-accomplishment/track/98cb692b331319e68272ac0fc5a049d9d87a9412) |   
-| 🕸️ Deep Learning in Python Track | DataCamp | [View Track Completion](https://www.datacamp.com/completed/statement-of-accomplishment/track/560b4f758562b07eb8998572cfe7056350c13ecd)   
-| 🐍 Python Data Associate Certificate | DataCamp | [View Certificate](https://www.datacamp.com/certificate/PDA0011278751517) |
-| 🧮 SQL Fundamentals Certificate | DataCamp | [View Certificate](https://www.datacamp.com/certificate/SQA0015601512114) |  
-| 📙 AI Fundamentals Certificate | DataCamp | [View Certificate](https://www.datacamp.com/skill-verification/AIF0026991382035) |  
 
 ---
 
@@ -80,6 +67,19 @@ A simple food image classification system using a pre-trained Hugging Face Trans
 
 ---
 
+## 🎓 Certifications
+
+| Certification | Platform | Credential |
+|----------------|-----------|-------------|
+| 🧠 Associate AI Engineer for Developers Career Track | DataCamp | [View Track Completion](https://www.datacamp.com/completed/statement-of-accomplishment/track/2f5b7820688c227a19df5d12fb2656a09d9f73ac) |
+| 🤖 Machine Learning Engineering Track | DataCamp | [View Track Completion](https://www.datacamp.com/completed/statement-of-accomplishment/track/98cb692b331319e68272ac0fc5a049d9d87a9412) |   
+| 🕸️ Deep Learning in Python Track | DataCamp | [View Track Completion](https://www.datacamp.com/completed/statement-of-accomplishment/track/560b4f758562b07eb8998572cfe7056350c13ecd)   
+| 🐍 Python Data Associate Certificate | DataCamp | [View Certificate](https://www.datacamp.com/certificate/PDA0011278751517) |
+| 🧮 SQL Fundamentals Certificate | DataCamp | [View Certificate](https://www.datacamp.com/certificate/SQA0015601512114) |  
+| 📙 AI Fundamentals Certificate | DataCamp | [View Certificate](https://www.datacamp.com/skill-verification/AIF0026991382035) |  
+
+---
+
 ## 🧩 Connect with Me
 [![Email](https://img.shields.io/badge/Email-stvn.org@gmail.com-blue?logo=gmail)](mailto:stvn.org@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Steven%20Stevanus-blue?logo=linkedin)](https://www.linkedin.com/in/steven-stevanus-aa367737/)
@@ -88,4 +88,4 @@ A simple food image classification system using a pre-trained Hugging Face Trans
 
 ---
 
-> _“Bridging DevOps reliability with AI scalability — one ML pipeline at a time.”_  
+> _“Bridging DevOps reliability with AI scalability — one pipeline at a time.”_  
