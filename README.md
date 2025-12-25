@@ -13,7 +13,6 @@ I'm moving from writing code from scratch to a more creative and "designer-type"
 
 ---
 
-## 🧬 About Me
 - 💻 Experienced in **Linux Systems, AWS, Docker, Kubernetes, Terraform, Jenkins**
 - 🧠 Currently focusing on **AI**, **Machine Learning**, and **MLOps**
 - ⚙️ Passionate about building **reliable, automated ML pipelines**
